@@ -299,7 +299,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: null,
+            rulesLink: "http://bit.ly/networkRules",
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
